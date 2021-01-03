@@ -1,3 +1,8 @@
+进入SSH后，需要用到的命令
+
+cd openwrt && make menuconfig
+
+
 # Actions-OpenWrt
 
 [![LICENSE](https://img.shields.io/github/license/mashape/apistatus.svg?style=flat-square&label=LICENSE)](https://github.com/P3TERX/Actions-OpenWrt/blob/master/LICENSE)
